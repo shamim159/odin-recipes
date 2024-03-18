@@ -1,0 +1,47 @@
+#title {
+  font-size: xx-large;
+  font-weight: bolder;
+  color: gold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: rgb(8, 8, 7);
+  margin-right: 30%;
+  margin-left: 30%;
+}
+#background{
+  background-color: beige;
+}
+
+.odin {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.square {
+  background-color: gold;
+  margin-right: 80%;
+}
+
+.recipes{
+  color: red;
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+}
+
+.lists, #desc  {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#bolder{
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
