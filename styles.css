@@ -7,6 +7,7 @@
   background-color: rgb(8, 8, 7);
   margin-right: 30%;
   margin-left: 30%;
+  padding: 8px;
 }
 #background{
   background-color: beige;
@@ -17,18 +18,21 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  
 }
 
 .square {
   background-color: gold;
   margin-right: 80%;
+  font-display: flex;
 }
 
-.recipes{
+.recipes, a{
   color: red;
   font-size: large;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 900;
+  padding: 12px;
 }
 
 .lists, #desc  {
@@ -39,6 +43,8 @@
   color: gold;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+ /* I have used the same classes on the recipe pages so there is minimal css */
 
 
 
